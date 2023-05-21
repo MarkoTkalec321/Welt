@@ -24,3 +24,6 @@ This web application is dynamically changing web pages using PHP code.  It has r
 - Database used: MySQL
 - Sessions with registration and login
 - Password hashing
+
+https://github.com/MarkoTkalec321/welt/assets/123999173/6774e6b3-3f8a-449f-82c2-5ca578103b00
+
